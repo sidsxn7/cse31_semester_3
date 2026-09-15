@@ -1,0 +1,7 @@
+Name: Sid.
+Roll Number: 1152
+Branch: CSE
+Semester: 3rd
+Subject: Full Stack Development
+Marks: 92
+Attendance: 97%
