@@ -19,4 +19,6 @@ const server = http.createServer ((req, res) => {
         res.statusCode = 404; res.end('Route not found');  
     }
 });
-server.listen(3000, () => console.log('Server on 3000'));
+server.listen(5050, () => {
+  console.log(`Server is running on http://localhost:5050`);
+});
